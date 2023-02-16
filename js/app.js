@@ -83,16 +83,21 @@ const submitQuiz=()=>{
 	const data=Questions[index];
 	// Getting The  Answer
 	const answer=AnswerInput();
-	
-	if(answer==data.answer){
-		correctAns++;
-	}else{
-		wrongAns++;
-	}
+	console.log(answer);
 
-	// Changing The Question..
-	index++;
-	loadQuestion();
+	if(answer==undefined){
+		alert("Should Be Select One");
+	}else{
+		if(answer==data.answer){
+			correctAns++;
+		}else{
+			wrongAns++;
+		}
+		
+		// Changing The Question..
+		index++;
+		loadQuestion();
+	}
 
 	return;
 }
