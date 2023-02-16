@@ -70,10 +70,10 @@ body{
 	}
 	.quizInstructions{
 		width: 80%;
-		box-shadow: 0px 0px 0px 3px white;
+		background: #ffffff;
 		background: white;
 		border-radius: 2px;
-		padding: 10px;
+		padding: 5px;
 		margin-bottom: 50px;
 	}
 }
