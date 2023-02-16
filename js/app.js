@@ -6,11 +6,11 @@ var Questions=[{
 		"d": "Jawaharlal Nehru",
 		"answer": "b"
 	},{
-		"Que": "Who Is The Father Of India!?",
-		"a": "Augaste Comte",
-		"b": "Aristotle",
-		"c": "Mahathma Gandhi",
-		"d": "Raja Ram Mohan Roy",
+		"Que": '"War is to man what maternity is to women" Whose Word It is?',
+		"a": "Adolf Hitlur",
+		"b": "John Lockie",
+		"c": "Mussolini",
+		"d": "Nepolien",
 		"answer": "c"
 	},{
 		"Que": "Who Signed Panchasheel Principle With China!?",
@@ -26,6 +26,48 @@ var Questions=[{
 		"c": "Mahathma Gandhi",
 		"d": "Raja Ram Mohan Roy",
 		"answer": "a"
+	},{
+		"Que": "Who Is The Father Of Genetics!?",
+		"a": "Alexander Fleming",
+		"b": "Johns Mendal",
+		"c": "Alec Jaffrey",
+		"d": "Michel Faradey",
+		"answer": "b"
+	},{
+		"Que": "Which Nation is not included in TRIPLE ALLIANCE!?",
+		"a": "Germany",
+		"b": "Italy",
+		"c": "Austria-Hungary",
+		"d": "France",
+		"answer": "d"
+	},{
+		"Que": "Which Nation is not included in ALLIED POWERS!?",
+		"a": "England",
+		"b": "France",
+		"c": "Japan",
+		"d": "China",
+		"answer": "c"
+	},{
+		"Que": "Find Out The Wrong Pair.",
+		"a": "Champaran Sathyagraha - 1916",
+		"b": "Lahore Session of INC - 1929",
+		"c": "Rowlat Act - 1919",
+		"d": "Khedha Movement - 1918",
+		"answer": "a"
+	},{
+		"Que": "Industrial Production of Soap Is Known as",
+		"a": "Contact Process",
+		"b": "Hot Process",
+		"c": "Hebar Process",
+		"d": "None of the Above",
+		"answer": "b"
+	},{
+		"Que": "Least distance of distinct vision for a normal human being is .......",
+		"a": "20m",
+		"b": "25m",
+		"c": "25cm",
+		"d": "20cm",
+		"answer": "c"
 	}]
 
 
