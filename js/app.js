@@ -102,6 +102,14 @@ const submitQuiz=()=>{
 	return;
 }
 
+const GoToHome=()=>{
+	window.location.replace("index.html");
+}
+
+const reloadPage=()=>{
+	window.location.reload();
+}
+
 const endGame=()=>{
 	let percentage=(correctAns/TotalQns)*100;
 	document.getElementById("box").innerHTML=`
@@ -112,6 +120,33 @@ const endGame=()=>{
 			<h2>Correct Answers: ${correctAns}</h2>
 			<h2>Wrong Answers: ${wrongAns}</h2>
 			<h2>Percentage: ${percentage}%</h2>
+
+			<button onclick="GoToHome()" 
+			style="
+			width: 80%;
+			padding: 8px;
+			font-size: 20px;
+			color: white;
+			background-color: #064970;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+			font-family: 'Contrail One', cursive;
+			margin:10px;
+			">Go To Home</button>
+			<button onClick="reloadPage()"
+			style="
+			width: 80%;
+			padding: 8px;
+			font-size: 20px;
+			color: white;
+			background-color: #064970;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+			font-family: 'Contrail One', cursive;
+			margin:10px;
+			">Play Again</button>
 		</div>
 	`
 }
