@@ -11,7 +11,7 @@ if (window.localStorage.getItem("name")===null) {
 }
 
 var WlcmMsg=document.querySelector(".welcome_msg");
-WlcmMsg.innerText=`Welcome ${userName} 💛✌`;
+WlcmMsg.innerText=`Welcome ${window.localStorage.getItem("name")} 💛✌`;
 
 const resetLocalStorage=()=>{
 	window.localStorage.clear();
