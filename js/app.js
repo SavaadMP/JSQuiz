@@ -68,16 +68,249 @@ var Questions=[{
 		"c": "25cm",
 		"d": "20cm",
 		"answer": "c"
+	},{
+		"Que": "Which among the following factors has no effect on seasons?",
+		"a": "Earth's revolution",
+		"b": "Axis of earth",
+		"c": "Earth's rotation",
+		"d": "Parallelism of earth's axis)",
+		"answer": "c"
+	},{
+		"Que": "Which longitude is known as primemeridian?",
+		"a": "0",
+		"b": "180",
+		"c": "120",
+		"d": "82.5",
+		"answer": "a"
+	},{
+		"Que": "Which Geographic Information System is used to understand the various features on earth's surface and its periodic changes?",
+		"a": "Remote Sensing",
+		"b": "Overlay Analysis",
+		"c": "Buffer Analysis",
+		"d": "Network Analysis",
+		"answer": "b"
+	},{
+		"Que": "Select the wrong statement related to Tungsten filament?",
+		"a": "High Resistivity",
+		"b": "High ductility",
+		"c": "Low melting point",
+		"d": "It can be kept white hot",
+		"answer": "c"
+	},{
+		"Que": "If size of the image formed by convex lens as same as the size of the object, then what is the magnification?",
+		"a": "+1",
+		"b": "-2",
+		"c": "+2",
+		"d": "-1",
+		"answer": "-1"
+	},{
+		"Que": "Which defect of vision can be rectified by using concave lens.",
+		"a": "Near sightedness",
+		"b": "Longsightedness",
+		"c": "Presbyopia",
+		"d": "All Of The Above",
+		"answer":"a"
+	},{
+		"Que": "Potential difference between 2 phase line is.....",
+		"a": "11KV",
+		"b": "11V",
+		"c": "240V",
+		"d": "400V",
+		"answer": "d"
+	},{
+		"Que": "Name the vaccine against Tuberculosis.",
+		"a": "MMR",
+		"b": "BCG",
+		"c": "OPV",
+		"d": "TT",
+		"answer": "b"
+	},{
+		"Que": "Which RNA transfers the message from DNA?",
+		"a": "mRNA",
+		"b": "tRNA",
+		"c": "rRNA",
+		"d": "All of the above",
+		"answer": "a"
+	},{
+		"Que": "Which part of the brain maintains balance of the body",
+		"a": "cerebrum",
+		"b": "cerebellum",
+		"c": "medulla oblongata",
+		"d": "thalamus",
+		"answer": "b"
+	},{
+		"Que": "Who proposed mutation theory?",
+		"a": "Charles Darwin",
+		"b": "Robert Malthus",
+		"c": "Hugo Di vires",
+		"d": "JBS Haldane",
+		"answer": "c"
+	},{
+		"Que": "Who invented DNA finger printing",
+		"a": "Alec Jaffrey",
+		"b": "Alexander Fleming",
+		"c": "James Watson",
+		"d": "Francis Crick",
+		"answer": "a"
+	},{
+		"Que": "Which one of the following subshells is not possible in an atom?",
+		"a": "1s",
+		"b": "2p",
+		"c": "4d",
+		"d": "3f",
+		"answer": "d"
+	},{
+		"Que": "Calamine is the ore of ............",
+		"a": "Zinc",
+		"b": "Alumnium",
+		"c": "Copper",
+		"d": "Silver",
+		"answer": "a"
+	},{
+		"Que": "What is the energy change in Galvanic Cell?",
+		"a": "Chemichal -> Electrical",
+		"b": "Electrical -> Chemichal",
+		"c": "Chemichal -> Mechanichal",
+		"d": "Mechanichal -> Chemichal",
+		"answer": "a"
+	},{
+		"Que": "In which block lanthanoid and actinoids belong?",
+		"a": "s block",
+		"b": "d block",
+		"c": "f block",
+		"d": "p block",
+		"answer": "c"
+	},{
+		"Que": "Name the industrial preparation of NH3?",
+		"a": "Hot process",
+		"b": "contact process",
+		"c": "habour process",
+		"d": "none of the above",
+		"answer": "c"
+	},{
+		"Que": "The homeopath ........(a)......... at the police station to give a complaint.",
+		"a": "went on",
+		"b": "turned up",
+		"c": "taken aback",
+		"d": "look into",
+		"answer": "b"
+	},{
+		"Que": "she (is) surprised to see a (beautiful) woven basket made by his brother.",
+		"a": "was, beautiful",
+		"b": "is, beautifully",
+		"c": "was, beautifully",
+		"d": "is, beautiful",
+		"answer": "c"
+	},{
+		"Que": "Name the quadrilateral for which we can always draw incircle",
+		"a": "Parallelogram",
+		"b": "rectangle",
+		"c": "trapezium",
+		"d": "rhombus",
+		"answer": "d"
+	},{
+		"Que": "The algebraic form of an arithmetic sequence is 4n-3. What is the common difference?",
+		"a": "4",
+		"b": "-4",
+		"c": "3",
+		"d": "-3",
+		"answer": "a"
+	},{
+		"Que": "Name the social reform movement led by V.T Bhattathiripad.",
+		"a": "Admavidhyasangham",
+		"b": "Sadhu Jana Paripalana Sangham",
+		"c": "Nair Service Society",
+		"d": "Yogakshemasabha",
+		"answer": "d"
+	},{
+		"Que": "Co-operation, self help and mutual help are the principles of which bank?",
+		"a": "Commercial Bank",
+		"b": "Reserve Bank",
+		"c": "Co-operative Banks",
+		"d": "MUDRA Bank",
+		"answer": "c"
+	},{
+		"Que": "Which local wind blows through the North Indian plains?",
+		"a": "Chinook",
+		"b": "Loo",
+		"c": "Harmarttan",
+		"d": "Foehn",
+		"answer": "b"
+	},{
+		"Que": "In which state is Koodamkulam nuclear power plant situated?",
+		"a": "Tamil Nadu",
+		"b": "Karnataka",
+		"c": "Gujarat",
+		"d": "MahaRashtra",
+		"answer": "a"
+	},{
+		"Que": "Which artificial satellite passes around the earth along the poles?",
+		"a": "GIS",
+		"b": "GPS",
+		"c": "GeoStationary",
+		"d": "Sun Synchronous",
+		"answer": "d"
+	},{
+		"Que": "The day in which the sun is vertically above the tropic of capricorn is called?",
+		"a": "Winter solstice",
+		"b": "Summer solstice",
+		"c": "Equinox",
+		"d": "Leap year",
+		"answer": "a"
+	},{
+		"Que": "Which Indian city is termed as 'Cottonopolis'?",
+		"a": "Kandla",
+		"b": "Kolatha",
+		"c": "Mumbai",
+		"d": "Ahmedhabad",
+		"answer": "c"
+	},{
+		"Que": "Which is considered as the biggest port of India ?",
+		"a": "mumbai",
+		"b": "kolkatha",
+		"c": "kochi",
+		"d": "chennai",
+		"answer": "a"
+	},{
+		"Que": "Name the Governor General who abolished sati in 1829 ?",
+		"a": "Lord Clive",
+		"b": "Lord Curzon",
+		"c": "Lord William Bentinck",
+		"d": "Lord Dalhousie",
+		"answer": "c"
+	},{
+		"Que": " The hottest planet in the solar system ?",
+		"a": "Earth",
+		"b": "venus",
+		"c": "mars",
+		"d": "jupiter",
+		"answer": "b"
+	},{
+		"Que": "One People, One State, One leader” was the policy of ?",
+		"a": "Stalin",
+		"b": "Hitler",
+		"c": "Lenin",
+		"d": "Mussolin",
+		"answer": "b"
+	},{
+		"Que": "The first computer made available for commercial use was",
+		"a": "MANIAC",
+		"b": "ENIAC",
+		"c": "UNIVAC",
+		"d": "None",
+		"answer": "c"
 	}]
 
 
 // TotalQuestions
-let TotalQns=Questions.length;
+// let TotalQns=Questions.length;
+let TotalQns=10;
 // Right And Wrong;
 let correctAns=0
 let wrongAns=0;
 // SetUp For Question Number:-
-let index=0;
+let QNumber=0;
+let index=Math.floor((Math.random() * Questions.length-1) + 1);
 // Questions:-
 let QueTitle=document.getElementById("QueTitle");
 // Recieving The Answer From User;
@@ -90,17 +323,17 @@ const reset=()=>{
 	})
 }
 
-const loadQuestion=()=>{
+const loadQuestion=(res)=>{
 	// If Maximum Question Reaches..
-	if(index===TotalQns){
+	if(QNumber===TotalQns){
 		return endGame()
 	}
 	// Resetting Answer....
 	reset();
 	// Getting The Qustions Array
-	const data=Questions[index];
+	const data=Questions[res];
 	// Showing The Question;
-	QueTitle.innerText=`Q${index+1}: ${data.Que}`;
+	QueTitle.innerText=`Q${QNumber+1}: ${data.Que}`;
 	// Showing Optionsssssss;
 	userOutput[0].nextElementSibling.innerText=data.a;
 	userOutput[1].nextElementSibling.innerText=data.b;
@@ -125,7 +358,6 @@ const submitQuiz=()=>{
 	const data=Questions[index];
 	// Getting The  Answer
 	const answer=AnswerInput();
-	console.log(answer);
 
 	if(answer==undefined){
 		alert("Should Be Select One");
@@ -137,8 +369,9 @@ const submitQuiz=()=>{
 		}
 		
 		// Changing The Question..
-		index++;
-		loadQuestion();
+		QNumber++;
+		index=Math.floor((Math.random() * Questions.length-1) + 1);
+		loadQuestion(index);
 	}
 
 	return;
@@ -194,4 +427,4 @@ const endGame=()=>{
 }
 
 // FuctionOnOpening:-
-loadQuestion();
+loadQuestion(index);
