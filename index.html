@@ -1,71 +1,71 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
 
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<style>
-		.Welcome{
-			padding: 20px;
-		}
-		h1 {
-			text-align: center;
-			justify-content: center;
-			display: flex;
-			font-size: 30px;
-		}
-		.Buttons{
-			display: flex;
-			justify-content: center;
-			flex-direction: row;
-			align-items: center;
-			text-align: center;
-		}
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <style>
+      .Welcome {
+        padding: 20px;
+      }
+      h1 {
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        font-size: 30px;
+      }
+      .Buttons {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: center;
+        text-align: center;
+      }
 
-		.Buttons a{
-			text-decoration: none;
-			font-size: 20px;
-			color: blue;
-			margin: 15px;
-			background: white;
-			padding: 10px 20px 10px 20px;
-			border-radius: 10px;
-		}
-		button{
-			font-size: 20px;
-			color: blue;
-			margin: 15px;
-			background: white;
-			padding: 10px 20px 10px 20px;
-			border-radius: 10px;
-			border-style: none;
-			font-family: 'Contrail One', cursive;
-			cursor: pointer;
-		}
-	</style>
-</head>
-<body>
-	<div class="Welcome">
-		<h1 style="color: white;" class="welcome_msg"></h1>
-	</div>
-	
-	<div class="mainPage">
-		<div class="quizInstructions">
-			<ul>
-				<li>There Will Be Total 10 Questions</li>
-				<li>You Should Attend All Questions</li>
-				<li>Don't refresh the page without completing the quiz</li>
-			</ul>
-		</div>
-	</div>
+      .Buttons a {
+        text-decoration: none;
+        font-size: 20px;
+        color: blue;
+        margin: 15px;
+        background: white;
+        padding: 10px 20px 10px 20px;
+        border-radius: 10px;
+      }
+      button {
+        font-size: 20px;
+        color: blue;
+        margin: 15px;
+        background: white;
+        padding: 10px 20px 10px 20px;
+        border-radius: 10px;
+        border-style: none;
+        font-family: "Contrail One", cursive;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="Welcome">
+      <h1 style="color: white" class="welcome_msg"></h1>
+    </div>
 
-	<div class="Buttons">
-		<a href="Quiz.html">Play Quiz</a>
-		<button onclick="resetLocalStorage()">Clear Data</button>
-	</div>
+    <div class="mainPage">
+      <div class="quizInstructions">
+        <ul>
+          <li>There Will Be Total 10 Questions</li>
+          <li>You Should Attend All Questions</li>
+          <li>Don't refresh the page without completing the quiz</li>
+        </ul>
+      </div>
+    </div>
 
-	<script type="text/javascript" src="js/index.js"></script>
-</body>
+    <div class="Buttons">
+      <a href="Quiz.html">Play Quiz</a>
+      <button onclick="resetLocalStorage()">Clear Data</button>
+    </div>
+
+    <script type="text/javascript" src="js/index.js"></script>
+  </body>
 </html>
